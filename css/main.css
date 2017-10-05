@@ -4,3 +4,7 @@ html {
   font-family: Georgia, serif;
   line-height: 1.5;
 }
+
+h2 img {
+  width: 100%;
+}

@@ -5,8 +5,9 @@ html {
   line-height: 1.5;
 }
 
-h2 img {
+h2, img {
   width: 100%;
+  color: #5d8432;
 }
 
 nav li {
@@ -18,4 +19,14 @@ nav li {
 
 li :hover {
   color: #b42885;
+}
+
+h2, nav {
+  font-family: "Patua One", cursive;
+}
+
+figure {
+  font-style: italic;
+  text-align: center;
+  font-size: 1rem;
 }

@@ -8,3 +8,14 @@ html {
 h2 img {
   width: 100%;
 }
+
+nav li {
+  font-weight: bold;
+  font-size: 1.125rem;
+  list-style-type: none;
+  color: #793284;
+}
+
+li :hover {
+  color: #b42885;
+}
